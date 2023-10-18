@@ -1,0 +1,14 @@
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\bin\Release\Factory_Compass_Calibration.exe
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\bin\Release\Factory_Compass_Calibration.pdb
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\compass_calibrator.csproj.AssemblyReference.cache
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\compass_calibrator.axis_image_view.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\compass_calibrator.Form1.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\MagMaster.Form2.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\compass_calibrator.help_arduino_code.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\compass_calibrator.help_how_to_use.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\MagMaster.Properties.Resources.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\compass_calibrator.serial_port_help_from.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\compass_calibrator.csproj.GenerateResource.cache
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\compass_calibrator.csproj.CoreCompileInputs.cache
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\Factory_Compass_Calibration.exe
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\compass_calibrator\compass_calibrator\obj\x86\Release\Factory_Compass_Calibration.pdb
